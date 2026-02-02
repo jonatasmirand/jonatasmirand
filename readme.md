@@ -23,7 +23,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasmiranda&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasmirand&show_icons=true&theme=dark)
 
 
 
