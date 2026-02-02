@@ -23,7 +23,7 @@
 
 ## Detalhes
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jonatasmirand=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasmiranda&show_icons=true&theme=radical)
 
 
 
