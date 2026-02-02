@@ -21,6 +21,12 @@
 
 ---
 
+## Detalhes
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jonatasmirand=anuraghazra&show_icons=true&theme=radical)
+
+
+
 ## 📫 Como me encontrar
 
 - 💼 **LinkedIn:** [linkedin.com/in/jonatasmirand](https://linkedin.com/in/jonatasmirand)
