@@ -21,10 +21,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasmiranda&show_icons=true&theme=dark)
-
 
 
 ## 📫 Como me encontrar
